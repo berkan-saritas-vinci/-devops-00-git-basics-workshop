@@ -1,0 +1,5 @@
+# Node modules
+node_modules/
+
+# ignorer le répertoire .vscode qui contient les fichiers de VSCode
+/.vscode
